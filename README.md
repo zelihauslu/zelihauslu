@@ -1,9 +1,7 @@
-### Hi there 👋
-## I am Zeliha, and I 19 years old.
-## My departmant is cmpE.
+** Hi there 👋**
+** I am * Zeliha*, and I 19 years old.**
+** My departmant is CmpE.**
 
-
-**zelihauslu/zelihauslu** is a ✨ _special_ ✨ repository because its `README.md` (zelihauslu.md) appears on your GitHub profile.
 
 
 - 📫 How to reach me: [Linkedin:](www.linkedin.com/in/zelihauslu)
