@@ -5,7 +5,8 @@ My departmant is CmpE.
 
 
 
-- 📫 How to reach me: Linkedin: www.linkedin.com/in/zelihauslu <br>
+- 📫 How to reach me:
+-  Linkedin: www.linkedin.com/in/zelihauslu <br>
                       Instagram: https://www.instagram.com/zelihaaauslu/ <br>
                       Mail: zelusluz@gmail.com <br>
                       Discord: zelihauslu#1536
