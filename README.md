@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **mobile technologies.**
 
-- 🌱 I’m currently learning **Swift, SwiftUI**
+- 🌱 I’m currently learning **SwiftUI**
 
 - 📫 How to reach me **zelusluz@gmail.com**
 
