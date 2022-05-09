@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/zelusluz" target="blank"><img src="https://img.shields.io/twitter/follow/zelusluz?logo=twitter&style=for-the-badge" alt="zelusluz" /></a> </p>
 
-- 🔭 I’m currently working on **mobile technologies.**
+- 🔭 I’m currently working on **mobile technologies..**
 
 - 🌱 I’m currently learning **SwiftUI**
 
