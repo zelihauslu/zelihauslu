@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **mobile technologies.**
 
-- 🌱 I’m currently learning **Swift, SwiftUI**
+- 🌱 I’m currently learning **SwiftUI**
 
 - 📫 How to reach me **zelusluz@gmail.com**
 
-- ⚡ Fun fact **I am in Tutorial hell**
+- ⚡ Fun fact **I am in Tutorial hell🤓🫠🤠**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
